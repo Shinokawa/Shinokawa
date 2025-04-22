@@ -59,7 +59,7 @@ Here are some ideas to get you started:
     </td>
     <td width="35%" valign="top" align="center"> <!-- 右栏：图片，宽度约35%，顶部对齐，内容居中 -->
       <!-- 在这里替换成你想要的图片 -->
-      <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="90%" alt="Side Image"/>
+      <img src="6033DE4ABFD493D29D930D69E149F002.jpg" width="90%" alt="Side Image"/>
       <!-- 可以调整 width="%" 来控制图片宽度 -->
       <!-- 你也可以在这里添加图片下方的文字说明等 -->
     </td>

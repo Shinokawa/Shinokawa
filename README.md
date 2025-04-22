@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there ( ´ ∀ ` )ﾉ It's Shinokawa~
 
 
 - 🌱 Currently an enthusiastic student in **Computer Science and Technology** at Dalian University of Technology
 - 💖 Super curious and passionate about the world of **Data Science** and **Artificial Intelligence**! ✨
-- 📊 Love playing with data, exploring the little secrets hidden inside, and dreaming of creating smart programs with code (～￣▽￣)～
+- 📊 Love exploring the little secrets hidden inside, and dreaming of creating smart programs with code (～￣▽￣)～
 - 💻 Leveling up my skills in **Python** and its awesome friends: **Pandas, NumPy, Scikit-learn, Keras, PyTorch**, hoping they'll help me achieve my AI dreams! 🚀
 - 🛠️ **My Skill Tree:**
 
@@ -56,4 +56,6 @@
 </table>
 
 <!-- 表格之后的内容会正常显示 -->
-- 🤔 If you're also interested in AI or data, or just have some fun ideas, feel free to connect and chat!
+- 🤔 If you're also interested in AI or data, or just have some fun ideas, feel free to connect and chat!<a href="https://x.com/shinokawa_s?s=11&t=HDQVZfhLxUsm5D1WKnvr1Q" target="_blank">
+  <img src="https://img.shields.io/badge/X-shinokawa_s-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow me on X"/>
+</a>

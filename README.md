@@ -1,4 +1,4 @@
-## Hi there &nbsp( ´ ∀ ` )ﾉ&nbsp Shinokawa desu~
+## Hi there &nbsp;( ´ ∀ ` )ﾉ&nbsp; Shinokawa desu~
 
 
 - 🌱 Currently an enthusiastic student in **Computer Science and Technology** at Dalian University of Technology

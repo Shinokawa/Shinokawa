@@ -67,5 +67,3 @@ Here are some ideas to get you started:
 </table>
 
 <!-- 表格之后的内容会正常显示 -->
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shinokawa)](https://github.com/anuraghazra/github-readme-stats)

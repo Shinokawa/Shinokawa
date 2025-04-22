@@ -58,5 +58,5 @@
 <!-- 表格之后的内容会正常显示 -->
 - 🤔 If you're also interested in AI or data, or just have some fun ideas, feel free to connect and chat!
 <a href="https://x.com/shinokawa_s?s=11&t=HDQVZfhLxUsm5D1WKnvr1Q" target="_blank">
-  <img src="https://img.shields.io/badge/X-shinokawa_s-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow me on X"/>
+  <img src="https://img.shields.io/badge/@shinokawa_s-000000?style=flat&logo=x&logoColor=white" alt="Follow me on X"/>
 </a>

@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">🛠️ 技术栈与概览 / Tech Stack & Overview</h2>
+<h2 align="left">🛠️ Tech Stack & Overview</h2>
 
 <table border="0" cellpadding="0" cellspacing="10"> <!-- cellspacing 控制两列间距 -->
   <tr>
     <td width="65%" valign="top"> <!-- 左栏：技能徽章，宽度约65%，顶部对齐 -->
-      <p><strong>我使用的技术 / Technologies I Use:</strong></p>
+      <p><strong> Technologies I Use:</strong></p>
       <!-- 这里放你的 Shields.io 徽章 -->
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>

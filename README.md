@@ -1,21 +1,11 @@
 ## Hi there 👋
 
 
-- 🌱 I am currently studying computer science at the School of Computer Science and Technology, Dalian University of Technology.
-<!--
-**Shinokawa/Shinokawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently an enthusiastic student in **Computer Science and Technology** at Dalian University of Technology
+- 💖 Super curious and passionate about the world of **Data Science** and **Artificial Intelligence**! ✨
+- 📊 Love playing with data, exploring the little secrets hidden inside, and dreaming of creating smart programs with code (～￣▽￣)～
+- 💻 Leveling up my skills in **Python** and its awesome friends: **Pandas, NumPy, Scikit-learn, Keras, PyTorch**, hoping they'll help me achieve my AI dreams! 🚀
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2 align="left">🛠️ Tech Stack & Overview</h2>
 
 <table border="0" cellpadding="0" cellspacing="10"> <!-- cellspacing 控制两列间距 -->
@@ -67,3 +57,4 @@ Here are some ideas to get you started:
 </table>
 
 <!-- 表格之后的内容会正常显示 -->
+- 🤔 If you're also interested in AI or data, or just have some fun ideas, feel free to connect and chat!

@@ -5,8 +5,7 @@
 - 💖 Super curious and passionate about the world of **Data Science** and **Artificial Intelligence**! ✨
 - 📊 Love playing with data, exploring the little secrets hidden inside, and dreaming of creating smart programs with code (～￣▽￣)～
 - 💻 Leveling up my skills in **Python** and its awesome friends: **Pandas, NumPy, Scikit-learn, Keras, PyTorch**, hoping they'll help me achieve my AI dreams! 🚀
-
-<h2 align="left">🛠️ Tech Stack & Overview</h2>
+- 🛠️ **My Skill Tree:**
 
 <table border="0" cellpadding="0" cellspacing="10"> <!-- cellspacing 控制两列间距 -->
   <tr>

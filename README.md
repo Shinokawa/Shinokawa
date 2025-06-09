@@ -41,7 +41,6 @@
         <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
         <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows"/>
         <br/>
-
       </p>
       <!-- 你可以在这里添加更多左栏内容 -->
     </td>

@@ -40,9 +40,7 @@
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
         <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
         <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Verilog-1E4684?style=flat&logo=verilog&logoColor=white" alt="Verilog"/>
-        <img src="https://img.shields.io/badge/Vivado-00A55F?style=flat&logo=xilinx&logoColor=white" alt="Vivado"/>
+
       </p>
       <!-- 你可以在这里添加更多左栏内容 -->
     </td>

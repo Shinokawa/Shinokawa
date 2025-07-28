@@ -4,6 +4,7 @@
 - Studying **Computer Science and Technology** at Dalian University of Technology.
 - Passionately exploring the fields of **Data Science** and **Artificial Intelligence**.
 - Focused on uncovering insights from data and driven to build intelligent software (～￣▽￣)～
+- Always looking for opportunities to collaborate on challenging projects and learn from others in the field.
 - 🛠️ **My Skill Tree:**
 
 <table border="0" cellpadding="0" cellspacing="10"> <!-- cellspacing 控制两列间距 -->

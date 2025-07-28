@@ -1,10 +1,9 @@
 ## Hi there &nbsp;( ´ ∀ ` )ﾉ&nbsp; Shinokawa desu~
 
 
-- 🌱 Currently an enthusiastic student in **Computer Science and Technology** at Dalian University of Technology
-- 💖 Super curious and passionate about the world of **Data Science** and **Artificial Intelligence**! ✨
-- 📊 Love exploring the little secrets hidden inside, and dreaming of creating smart programs with code (～￣▽￣)～
-- 💻 Leveling up my skills in **Python** and its awesome friends: **Pandas, NumPy, Scikit-learn, Keras, PyTorch**, hoping they'll help me achieve my AI dreams! 🚀
+- Studying **Computer Science and Technology** at Dalian University of Technology.
+- Passionately exploring the fields of **Data Science** and **Artificial Intelligence**.
+- Focused on uncovering insights from data and driven to build intelligent software (～￣▽￣)～
 - 🛠️ **My Skill Tree:**
 
 <table border="0" cellpadding="0" cellspacing="10"> <!-- cellspacing 控制两列间距 -->

@@ -1,14 +1,12 @@
 <h1 align="center">
   Hi there, Shinokawa desu~ ૮ ˶ᵔ ᵕ ᵔ˶ ა
 </h1>
-
 <p align="center">
   <em>"Ideas matter more than syntax." 🪄✨</em>
 </p>
 
 ---
 
-<!-- 把宽度从260缩小到180-200之间，是兼顾电脑端和手机端的最优解 -->
 <img align="right" src="B7E488C8A614A7D31464300A2EB8BDA9.jpg" width="190" alt="恋爱找我 我超甜"/>
 
 ### ☁️ About Me
@@ -17,19 +15,13 @@
 - 🤖 **Navigating the AI era.** Focused on logic, data insights, and creative problem-solving.
 - 💡 Love turning fun, chaotic ideas into reality with the help of AI.
 - 🎸 Anime enthusiast | MyGO!!!!! | バンドリ🎸 | MuseDash
-- 📫 Feel free to connect and share cool ideas: 
-  <a href="https://x.com/shinokawa_s?s=11&t=HDQVZfhLxUsm5D1WKnvr1Q" target="_blank">X</a> ｜ <a href="mailto:sk_kiko@163.com">Email</a>
+- 📫 Feel free to connect and share cool ideas:
+  <a href="https://x.com/shinokawa_s?s=11&t=HDQVZfhLxUsm5D1WKnvr1Q" target="_blank">X</a> ｜
+  <a href="mailto:sk_kiko@163.com">Email</a>
 
-<!-- 清除浮动：这行非常重要！防止文字太少时，图片侵入下方的横线和数据卡片区域 -->
 <br clear="both">
-<br>
 
 ---
-
-<!-- 极其干净透明的活跃度统计，只展示你的 Coding 热情，不刻意炫耀 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shinokawa&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=ffb6c1" alt="Stats" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer"/>

@@ -18,7 +18,7 @@
 - 💡 Love turning fun, chaotic ideas into reality with the help of AI.
 - 🎸 Anime enthusiast | MyGO!!!!! | バンドリ🎸 | MuseDash
 - 📫 Feel free to connect and share cool ideas: 
-  <a href="https://x.com/shinokawa_s?s=11&t=HDQVZfhLxUsm5D1WKnvr1Q" target="_blank">Twitter/X</a> ｜ <a href="mailto:sk_kiko@163.com">Email</a>
+  <a href="https://x.com/shinokawa_s?s=11&t=HDQVZfhLxUsm5D1WKnvr1Q" target="_blank">X</a> ｜ <a href="mailto:sk_kiko@163.com">Email</a>
 
 <!-- 清除浮动：这行非常重要！防止文字太少时，图片侵入下方的横线和数据卡片区域 -->
 <br clear="both">

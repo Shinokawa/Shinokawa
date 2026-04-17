@@ -8,7 +8,8 @@
 
 ---
 
-<img align="right" src="B7E488C8A614A7D31464300A2EB8BDA9.jpg" width="260" alt="恋爱找我 我超甜"/>
+<!-- 把宽度从260缩小到180-200之间，是兼顾电脑端和手机端的最优解 -->
+<img align="right" src="B7E488C8A614A7D31464300A2EB8BDA9.jpg" width="190" alt="恋爱找我 我超甜"/>
 
 ### ☁️ About Me
 
@@ -19,7 +20,9 @@
 - 📫 Feel free to connect and share cool ideas: 
   <a href="https://x.com/shinokawa_s?s=11&t=HDQVZfhLxUsm5D1WKnvr1Q" target="_blank">Twitter/X</a> ｜ <a href="mailto:sk_kiko@163.com">Email</a>
 
-<br><br><br> <!-- 留白，让排版呼吸感更好 -->
+<!-- 清除浮动：这行非常重要！防止文字太少时，图片侵入下方的横线和数据卡片区域 -->
+<br clear="both">
+<br>
 
 ---
 

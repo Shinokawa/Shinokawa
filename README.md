@@ -14,7 +14,7 @@
 ### ☁️ About Me
 
 - 🎓 **Incoming CS Ph.D. Student** (Currently senior @ DUT).
-- 🤖 **Navigating the AI era.** Less focused on memorizing frameworks, more focused on logic, data insights, and creative problem-solving.
+- 🤖 **Navigating the AI era.** Focused on logic, data insights, and creative problem-solving.
 - 💡 Love turning fun, chaotic ideas into reality with the help of AI.
 - 🎸 Anime enthusiast | MyGO!!!!! | バンドリ🎸 | MuseDash
 - 📫 Feel free to connect and share cool ideas: 

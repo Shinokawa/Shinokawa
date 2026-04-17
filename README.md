@@ -16,7 +16,7 @@
 - 🎓 **Incoming CS Ph.D. Student** (Currently senior @ Dalian University of Technology).
 - 🤖 **Navigating the AI era.** Less focused on memorizing frameworks, more focused on logic, data insights, and creative problem-solving.
 - 💡 Love turning fun, chaotic ideas into reality with the help of AI.
-- 🎸 ACG enthusiast / MyGO!!!!! 🦋
+- 🎸 Anime enthusiast | MyGO!!!!! | バンドリ🎸 
 - 📫 Feel free to connect and share cool ideas: 
   <a href="https://x.com/shinokawa_s?s=11&t=HDQVZfhLxUsm5D1WKnvr1Q" target="_blank">Twitter/X</a> ｜ <a href="mailto:sk_kiko@163.com">Email</a>
 

@@ -13,7 +13,7 @@
 
 ### ☁️ About Me
 
-- 🎓 **Incoming CS Ph.D. Student** (Currently senior @ Dalian University of Technology).
+- 🎓 **Incoming CS Ph.D. Student** (Currently senior @ DUT).
 - 🤖 **Navigating the AI era.** Less focused on memorizing frameworks, more focused on logic, data insights, and creative problem-solving.
 - 💡 Love turning fun, chaotic ideas into reality with the help of AI.
 - 🎸 Anime enthusiast | MyGO!!!!! | バンドリ🎸 

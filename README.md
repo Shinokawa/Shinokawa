@@ -24,13 +24,5 @@
 ---
 
 <p align="center">
-  <a href="https://ghfind.com/u/shinokawa?ref=badge">
-    <img src="https://ghfind.com/api/card/shinokawa?theme=light" alt="GitHub Roast"/>
-  </a>
-</p>
-
----
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer"/>
 </p>

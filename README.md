@@ -11,7 +11,7 @@
 
 ### ☁️ About Me
 
-- 🎓 **Incoming CS Ph.D. Student** (Currently senior @ DUT).
+- 🎓 **CS Ph.D. Student@ HKBU | B.Eng. @ DUT** .
 - 🤖 **Navigating the AI era.** Focused on logic, data insights, and creative problem-solving.
 - 💡 Love turning fun, chaotic ideas into reality with the help of AI.
 - 🎸 Anime enthusiast | MyGO!!!!! | バンドリ🎸 | MuseDash

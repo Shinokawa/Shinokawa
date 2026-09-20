@@ -11,7 +11,7 @@
 
 ### ☁️ About Me
 
-- 🎓 **CS Ph.D. Student @ HKBU | B.Eng. @ DUT**.
+- 🎓 **CS Ph.D. Student @ HKBU | B.Eng. @ DUT**
 - 🔬 Research interests: efficient and adaptive LLMs and agentic systems.
 - 🛠️ Building and maintaining open-source software, with a focus on multimedia systems.
 - 🎸 Anime enthusiast | MyGO!!!!! | バンドリ🎸 | MuseDash

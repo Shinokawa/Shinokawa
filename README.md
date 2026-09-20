@@ -12,8 +12,8 @@
 ### ☁️ About Me
 
 - 🎓 **CS Ph.D. Student@ HKBU | B.Eng. @ DUT** .
-- 🔬 Research interests: efficient and adaptive LLMs, on-device intelligence, and agentic systems.
-- 🛠️ Building and maintaining open-source software, with a focus on cross-platform applications and multimedia systems.
+- 🔬 Research interests: efficient and adaptive LLMs and agentic systems.
+- 🛠️ Building and maintaining open-source software and multimedia systems.
 - 🎸 Anime enthusiast | MyGO!!!!! | バンドリ🎸 | MuseDash
 - 📫 Feel free to connect and share cool ideas:
   <a href="https://x.com/shinokawa_s?s=11&t=HDQVZfhLxUsm5D1WKnvr1Q" target="_blank">X</a> ｜
